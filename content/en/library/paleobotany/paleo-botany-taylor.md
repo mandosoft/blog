@@ -5,6 +5,8 @@ author: Edith L. Taylor, Thomas N. Taylor, Michael Krings
 description: This book provides up-to-date coverage of fossil plants from Precambrian life to flowering plants, including fungi and algae.
 isStarred: false
 ---
+**Authors**: Edith L. Taylor, Thomas N. Taylor, Michael Krings
+
 
 This book provides up-to-date coverage of fossil plants from Precambrian life to flowering plants, including fungi and algae. It begins with a discussion of geologic time, how organisms are preserved in the rock record, and how organisms are studied and interpreted and takes the student through all the relevant uses and interpretations of fossil plants.
 ***
