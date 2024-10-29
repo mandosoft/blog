@@ -69,7 +69,7 @@ My notes on this subject, as I've stated, go back almost a decade. They sit in u
 a research repository moving forward. One where others with intuitive interest in this subject
 will have something to go off of. 
 
-So that's really why I quit my job. To pursue this fledgling idea. And who knows, maybe I'll go back in some way. But for now, my intuition demands my fullest attention to this effortm which may benefit a broader community of like-minded individuals. 
+So that's really why I quit my job. To pursue this fledgling idea. And who knows, maybe I'll go back in some way. But for now, my intuition demands my fullest attention to this effort which may benefit a broader community of like-minded individuals. 
 
 
 
