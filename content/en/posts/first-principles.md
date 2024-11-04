@@ -57,13 +57,11 @@ has always been done in this ivory tower view of harmony, counter-point, and sou
 Even the earlier works by Lindenmayer and the [Prusinkiewicz Laboratory](https://algorithmicbotany.org/) appear to take a great deal of artistic license in their renderings.
 I don't think this is well appreciated as nature clearly shows, there's a great deal of poetic license and randomness at hand when you walk through a forest.  
 
-With this in mind, my insight last month - whether it's original or not - was that the domain in which natural geometric structures can occur in sound has been misunderstood. 
-The syntax of music is not notes or harmony structures anymore than the growth syntax of a plant is the chloroplast. How can anything with creative feeling be obtained by focusing on notes alone?
+With this in mind, my insight last month - whether it's original or not - was that the domain in which natural geometric structures can be implied has been largely too narrow to allow for much
+creative expression.
+The syntax of music is not merley notes or harmony structures anymore than the growth syntax of a plant is the simply thechloroplast. How can anything with creative feeling be obtained by focusing on notes alone?
 
 I realized from a lifetime of playing fiddle tunes, there is typically an A part and a B part. Usually a song is AABB, or AABA. What happens within that structure is up to the artist, and often there's plenty of room for improvisation on the theme, while still being true to the underlying structure. Without the syntactic structure, the tune would be unintelligle for others. It would unravel. 
-
-It seems obvious now and I kick myself for not seeing it many years ago when I first introduced
-myself to these ideas. But I hadn't had a full enough basis of knowledge to draw from and actualize them in a meaningful way. 
 
 My notes on this subject, as I've stated, go back almost a decade. They sit in un-indexable journals filled with sloppy cursive next to my bedside. My hope is to allow this site to be 
 a research repository moving forward. One where others with intuitive interest in this subject
