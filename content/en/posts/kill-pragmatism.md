@@ -32,6 +32,7 @@ input variable is money.
 
 
 ### 1. "We are going to work with what we have..."
+![Legos](https://images.squarespace-cdn.com/content/v1/51967abae4b0fe8d0161031f/1646360098225-K5UI3FYVQWMJF3MNMTUT/processed_20220215_100811.jpg)
 
 Imagine this. You are working on a feature for some app that maybe if you're lucky, are happy
 to build and a team that is enjoyable to work with. You are given your first ticket and asked
@@ -54,6 +55,7 @@ to others? Can you evaulate the existing solution and be sure it makes sense for
 *Is there anything we can eliminate?*"
 
 ### 2. "...under the time we have left"
+![Shitty boat](https://annettesimmons.com/wp-content/uploads/2015/01/sinkingship1-300x225.jpg)
 
 In software consulting world, we do everything in terms of SOWs (Statements of Work). It is 
 effectively a contract that should provide a good estimate of the amount of time and money
@@ -75,6 +77,8 @@ rid of this weird false urgency created by time constraints that were arbitraril
 in the first place. 
 
 ### 3. "...to deliver what we can."
+
+![Leaving Vietnam](https://www.popasmoke.com/wp-content/uploads/2019/05/roger-herman-044.jpg)
 
 I've been a part of a lot of projects where there was no "delivery", in part, because
 I don't think software consulting is incentivized to care. If we burn the hours in SOW
