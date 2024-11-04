@@ -26,9 +26,9 @@ Here is how I would define that vile word in the context of software development
 
 ### "We are going to work with what we have, under the time we have left, to deliver what we can."
 
+
 I firmly believe this is a recipe for failure. It is in fact a philosophy of engineering whose sole
 input variable is money.
-
 
 
 ### 1. "We are going to work with what we have..."
@@ -53,7 +53,7 @@ go back and look at your current work. Is there anything you can simplify and ma
 to others? Can you evaulate the existing solution and be sure it makes sense for us?
 *Is there anything we can eliminate?*"
 
-2. "...under the time we have left"
+### 2. "...under the time we have left"
 
 In software consulting world, we do everything in terms of SOWs (Statements of Work). It is 
 effectively a contract that should provide a good estimate of the amount of time and money
@@ -74,7 +74,7 @@ the junior developers should have a say so they can scope their time effectively
 rid of this weird false urgency created by time constraints that were arbitrarily created
 in the first place. 
 
-3. "...to deliver what we can."
+### 3. "...to deliver what we can."
 
 I've been a part of a lot of projects where there was no "delivery", in part, because
 I don't think software consulting is incentivized to care. If we burn the hours in SOW
