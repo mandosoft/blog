@@ -1,6 +1,6 @@
 ---
 title: "Kill Pragmatism with a Hot Knife"
-date: 2024-11-4
+date: 2024-11-04
 author: Thomas Townsley
 description:  
 isStarred: false
