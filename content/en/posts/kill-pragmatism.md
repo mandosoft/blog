@@ -32,7 +32,7 @@ input variable is money.
 
 
 ### 1. "We are going to work with what we have..."
-![Legos](https://images.squarespace-cdn.com/content/v1/51967abae4b0fe8d0161031f/1646360098225-K5UI3FYVQWMJF3MNMTUT/processed_20220215_100811.jpg)
+![Legos](https://i.redd.it/gro3eit0s1k41.png)
 
 Imagine this. You are working on a feature for some app that maybe if you're lucky, are happy
 to build and a team that is enjoyable to work with. You are given your first ticket and asked
